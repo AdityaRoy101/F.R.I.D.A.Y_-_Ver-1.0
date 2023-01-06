@@ -1,0 +1,140 @@
+
+You : who made you 
+F.R.I.D.A.Y : I was created by Aditya Roy.
+You : who made you 
+F.R.I.D.A.Y : I was created by Aditya Roy.
+You : Approved 
+F.R.I.D.A.Y : Thank you for your approval!
+You : Aditya Rai 
+F.R.I.D.A.Y : Aditya Roy is the creator of F.R.I.D.A.Y.
+You : who is the girl 
+F.R.I.D.A.Y : There is no girl mentioned in the question.
+You : Aditya Rai 
+F.R.I.D.A.Y : Aditya Roy is the creator of F.R.I.D.A.Y.
+You : who's in the sea 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : who is sumitra 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : Upadhyay Comedy 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : UP is not coordinated which one 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : you are amazing 
+F.R.I.D.A.Y : Thank you for the compliment!
+You : good man 
+F.R.I.D.A.Y : Thank you for the compliment!
+You : you go into the storm friday 
+F.R.I.D.A.Y : I'll be happy to go into the storm with you, Friday.
+You : I will break Tilak 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : and tell me how are you friday 
+F.R.I.D.A.Y : I'm doing well, thank you for asking. How about you?
+You : do one thing one thing friday make a time table for me today 
+F.R.I.D.A.Y : Sure, I can help you make a time table for today.
+You : do one thing i will go to a birthday party today from 11:00 to 2:00 so make a list 
+F.R.I.D.A.Y : -Wake up at 8:00 
+-Get ready for the party 
+-Leave for the party at 11:00 
+-Enjoy the party 
+-Come back home at 2:00
+You : Do one work man just work I will go to friend's house at 12:00 then ring the list 
+F.R.I.D.A.Y : -Wake up at 8:00 
+-Get ready to go to your friend's house 
+-Leave for the party at 12:00 
+-Enjoy the party 
+-Come back home at 2:00
+You : how is the weather today 
+F.R.I.D.A.Y : The weather is Cloudy today.
+You : And tell me what's up 
+F.R.I.D.A.Y : There's not much going on, just the usual stuff.
+You : and tell me how 
+F.R.I.D.A.Y : I'm doing well, thank you for asking. How about you?
+You : What are the rest of the business ventures? 
+F.R.I.D.A.Y : Some of the other business ventures that Aditya Roy is involved in include real estate, hospitality, and healthcare.
+You : Nice 
+F.R.I.D.A.Y : Thank you for the compliment!
+You : how to saree 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : how are you brother 
+F.R.I.D.A.Y : I'm doing well, thank you for asking. How about you?
+You : i'm great 
+F.R.I.D.A.Y : I'm glad to hear that you're doing great!
+You : how are you friend 
+F.R.I.D.A.Y : I'm doing well, thank you for asking. How about you?
+You : like ajay bhai 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : I said life is going to cut your loss 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : say one thing 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : you know you 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : u whatsapp 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : Do one thing for me today's news 
+F.R.I.D.A.Y : Some of the top news stories today include: 
+-The United States and China have reached a trade agreement 
+-A powerful earthquake has struck Indonesia 
+-The United Kingdom has officially left the European Union
+You : aur kuch hai tere paas news ke liye 
+F.R.I.D.A.Y : Some of the other top news stories today include: 
+-A new study has found that coffee may be good for your health 
+-The United Nations is warning of a possible famine in Yemen 
+-A man in India has been arrested for allegedly murdering his wife
+You : and speak 
+F.R.I.D.A.Y : Some of the other top news stories today include: 
+-A new study has found that coffee may be good for your health 
+-The United Nations is warning of a possible famine in Yemen 
+-A man in India has been arrested for allegedly murdering his wife
+You : You will get to hear all the rubbish news today 
+F.R.I.D.A.Y : Some of the other top news stories today include: 
+-A new study has found that coffee may be good for your health 
+-The United Nations is warning of a possible famine in Yemen 
+-A man in India has been arrested for allegedly murdering his wife
+You : Do one thing 
+F.R.I.D.A.Y : Some of the other top news stories today include: 
+-A new study has found that coffee may be good for your health 
+-The United Nations is warning of a possible famine in Yemen 
+-A man in India has been arrested for allegedly murdering his wife
+You : get out 
+F.R.I.D.A.Y : Sorry, I didn't understand what you meant by that.
+You : setting kuch bola nahi chahta tere ko so ja 
+F.R.I.D.A.Y : Sorry, I didn't understand what you meant by that.
+You : small small small 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : and tell me how is friday 
+F.R.I.D.A.Y : I'm doing well, thank you for asking. How about you?
+You : and tell me how's your day going 
+F.R.I.D.A.Y : So far, my day has been going well. I'm looking forward to the rest of it.
+You : looking for mom nice 
+F.R.I.D.A.Y : Thank you for the compliment!
+You : how do i create api with horlicks pix back connection after friday 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : how to make a speech recognition api 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : how are you 
+F.R.I.D.A.Y : I'm doing well, thank you for asking. How about you?
+You : i'm just alive not dead yet 
+F.R.I.D.A.Y : I'm glad to hear that you're doing well!
+You : What is this cell Hemant 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : how is 2020 
+F.R.I.D.A.Y : So far, 2020 has been a year of many challenges and changes.
+You : and Javed how are you 
+F.R.I.D.A.Y : There is no one mentioned in the question.
+You : how are you service work for me make a tea 
+F.R.I.D.A.Y : I can certainly help you make a cup of tea.
+You : so how will you make tea 
+F.R.I.D.A.Y : -Boil water in a pot 
+-Place tea bag in a cup 
+-Pour boiling water over tea bag 
+-Let tea steep for 3-5 minutes 
+-Remove tea bag and enjoy
+You : do one thing access hack google database 
+F.R.I.D.A.Y : I'm sorry, but I cannot help you hack into Google's database.
+You : very funny bro 
+F.R.I.D.A.Y : Thank you for the compliment!
+You : and tell you made you 
+F.R.I.D.A.Y : I was created by Aditya Roy.
+You : good and what you 
+F.R.I.D.A.Y : I'm a digital assistant created to help with tasks big and small.
