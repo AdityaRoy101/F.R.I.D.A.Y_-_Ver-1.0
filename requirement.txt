@@ -1,0 +1,17 @@
+speech_recognition
+googletrans
+selenium
+time
+openai
+dotenv
+pyaudio
+struct
+math
+os
+keyboard
+pyautogui
+webbrowser
+json
+torch
+numpy
+random
