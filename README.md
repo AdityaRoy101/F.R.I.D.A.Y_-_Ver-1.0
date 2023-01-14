@@ -10,7 +10,7 @@ I am using python ( Ver-3.10.8 ) if any problem arrises update your python Versi
   
           |--activate your virtualenv, install it using ( pip install virtualenv).
           
-          |--run: pip install -r requirements.txt in your Powershell.
+          |--run: pip install -r requirement.txt in your Powershell.
           
 3. Execute the Download.py file.
           
