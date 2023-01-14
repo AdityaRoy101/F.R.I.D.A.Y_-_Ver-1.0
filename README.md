@@ -3,3 +3,5 @@ An Artificial Intelligence Voice Assistant Which can Serve you any need it can s
 1. Change the api key in the Data --> Api.txt with your api key that you can get on the website of Open Ai after registration.
 2. Download the required libraries.
 3. The main file here is jarvis.py execute it.
+
+The F.R.I.D.A.Y_-_Ver-2.0 Advanced Version will be comming soon.
