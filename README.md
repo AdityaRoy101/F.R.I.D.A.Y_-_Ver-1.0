@@ -12,6 +12,8 @@ I am using python ( Ver-3.10.8 ) if any problem arrises update your python Versi
           
           |--run: pip install -r requirements.txt in your Powershell.
           
-3. The main file here is jarvis.py execute it.
+3. Execute the Download.py file.
+          
+4. The main file here is jarvis.py execute it.
 
 The F.R.I.D.A.Y_-_Ver-2.0 Advanced Version will be comming soon.
